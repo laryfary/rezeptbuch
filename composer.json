@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3.14",
+        "zurb/foundation": "^6.8",
+        "components/jquery": "^3.7"
+    }
+}
